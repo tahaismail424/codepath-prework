@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![x](https://drive.google.com/file/d/1fJ7B4IpQWDnygbtL318NsHaSGMqE_LtO/view?usp=sharing)
+![x](https://media.giphy.com/media/LfJ0xLcue95qv7WiCg/giphy.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
@@ -64,7 +64,7 @@ Other than the functionality of the game, I believe the UI could be definitely u
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://drive.google.com/file/d/19cwmwFKv7lIAQ1Mn8iZVesrA8zk_ZtZh/view?usp=sharing)
+[My 5-minute Interview Recording](https://youtu.be/xobmyhuPBmI)
 
 
 ## License
