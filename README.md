@@ -2,23 +2,23 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: **Taha Ismail**
 
-Time spent: **#** hours spent in total
+Time spent: **3** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/misty-calico-agustinia)
 
 ## Required Functionality
 
 The following **required** functionality is complete:
 
-* [ ] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
-* [ ] "Start" button toggles between "Start" and "Stop" when clicked. 
-* [ ] Game buttons each light up and play a sound when clicked. 
-* [ ] Computer plays back sequence of clues including sound and visual cue for each button
-* [ ] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
-* [ ] User wins the game after guessing a complete pattern
-* [ ] User loses the game after an incorrect guess
+* [x] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [x] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [x] Game buttons each light up and play a sound when clicked. 
+* [x] Computer plays back sequence of clues including sound and visual cue for each button
+* [x] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [x] User wins the game after guessing a complete pattern
+* [x] User loses the game after an incorrect guess
 
 The following **optional** features are implemented:
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://drive.google.com/file/d/1fJ7B4IpQWDnygbtL318NsHaSGMqE_LtO/view?usp=sharing)
+![x](https://drive.google.com/file/d/1fJ7B4IpQWDnygbtL318NsHaSGMqE_LtO/view?usp=sharing)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
